@@ -1,0 +1,62 @@
+/*Voici un commentaire : il permet de commenter chaque ligne du fichier afin de savoir  à quoi elle correspond*/
+body
+	{background:black;
+	font-family:Arial,Verdanasans-serif;
+	}
+h1
+	{color : white;
+	font-size : 200%;
+	background : black;
+	text-align : center;
+	}
+h2
+	{color : white;
+	font-size : 150%;
+	background : black;
+	text-align : center;
+	}
+h3	{color : white;
+	font-size : 150%;
+	background : black;
+	text-align : left;
+	}
+ul
+	{color:white;
+	list-style-type : disc;
+	}
+a
+	{color:white;
+	}
+
+section
+	{border-style : ;
+	border-width : 2px;
+	border-color : whiteS;
+	}
+table
+	{width:25%;}
+table, td, th
+	{border: solid 1px black;
+	border-collapse: collapse;
+	border-spacing: 2px;
+	}
+
+.diff
+	{font-weight : bold;
+	text-align : left;
+	}
+ol.niveau1
+	{color : white;
+	list-style-type : decimal;
+	}	
+ol.niveau2
+	{color : white;
+	list-style-type : lower-latin;
+	}
+
+a:hover
+	{color:white;
+	background:red;
+	}
+
+	
